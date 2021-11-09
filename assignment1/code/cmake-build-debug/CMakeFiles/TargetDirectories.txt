@@ -1,0 +1,8 @@
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task5.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task2a.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task2b.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task6.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task4.dir
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/cmake-build-debug/CMakeFiles/task3.dir

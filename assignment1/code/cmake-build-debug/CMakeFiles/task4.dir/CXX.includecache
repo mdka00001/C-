@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/Desktop/C++/Assignment1/assignment1/code/task4.cpp
+cmath
+-
+cstdio
+-
+vector
+-
+iostream
+-
+algorithm
+-
+bits/stdc++.h
+-
+sstream
+-
+
